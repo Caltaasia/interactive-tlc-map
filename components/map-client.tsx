@@ -84,13 +84,13 @@ const BASE_MAPS = [
   {
     id: "light",
     label: "Светлая CARTO",
-    url: "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+    url: "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?api_key=cb1_2s9r_1_17acf226e5947df70bbb7b72",
     attribution: '&copy; <a href="https://carto.com/">CARTO</a>',
   },
   {
     id: "dark",
     label: "Тёмная CARTO",
-    url: "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+    url: "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?api_key=cb1_2s9r_1_17acf226e5947df70bbb7b72",
     attribution: '&copy; <a href="https://carto.com/">CARTO</a>',
   },
   {
